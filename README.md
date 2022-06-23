@@ -12,7 +12,7 @@
 <p align="left">
 
 <a href="https://twitter.com/ertugruldege" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ertugruldege" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ertugruldege" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ertugruldege" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ertugrul-dege" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ertugruldege" height="30" width="40" /></a>
 <a href="https://instagram.com/ertugruldege" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ertugruldege" height="30" width="40" /></a>
 </p>
 
