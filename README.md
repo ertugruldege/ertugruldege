@@ -98,12 +98,3 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
   </a>
 </p>
-
-<p>
- <img style="width: 50%;" align="center" src="https://github-readme-stats.vercel.app/api?username=ertugruldege&show_icons=true&locale=en" alt="ertugruldege" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ertugruldege&show_icons=true&locale=en&layout=compact" alt="ertugruldege" />
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ertugruldege&" alt="ertugruldege" /></p>
-
